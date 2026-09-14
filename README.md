@@ -1,4 +1,4 @@
-## 🎨 Graph Tone-Coloring Algorithms
+## 🎨 GraphTones
 
 Exploration of (a, b)-tone coloring on random and circulant graphs, with a constraint on decreasing color sharing based on the distance between vertices.
 
